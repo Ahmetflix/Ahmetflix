@@ -16,4 +16,4 @@
 <br/>
 <h3 align="left">Spotify:</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jnlo4g9cubrfh0h9qiqb61umv&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jnlo4g9cubrfh0h9qiqb61umv&cover_image=true&theme=natemoo-re)]

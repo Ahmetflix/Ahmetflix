@@ -1,3 +1,3 @@
-maybe asocial
-likes anime, manga, novel
+maybe asocial<br>
+likes anime, manga, novel<br>
 likes programming 

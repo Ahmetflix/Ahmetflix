@@ -1,1 +1,1 @@
-needs a geass tho
+SA BEN GWELDİM
